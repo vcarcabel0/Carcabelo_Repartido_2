@@ -1,25 +1,27 @@
 body{
-    background-color: #fafcaf;
+    background-color: #fdfd96;
     color:#000
 }
 .menu{
-    background-color: #ffe4e1;
+    background-color: #e2e37e;
+    text-align: center;
 }
 .ranking{
-    background-color:#cbaacb
+    background-color:#fffec2
 }
 .top{
-    background-color:#cbaacb
+    background-color:#fffec2
 }
 .genero{
-    background-color:#cbaacb
+    background-color:#fffec2
 }
 .descripcion{
-    background-color:#b49fdc ;
+    background-color:#ffffd1 ;
 }
 .fin{
-    background-color: #fec9a7;
+    background-color: #c8ca66;
 }
 .titulo{
-    background-color: #b0c2f2;
+    background-color: #fff5ba;
+    text-align: center;
 }

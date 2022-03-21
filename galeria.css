@@ -1,0 +1,28 @@
+body{
+    background-color: #e7ffac;
+    color:#000;
+}
+.titulo{
+    background-color: #dbffd6;
+    text-align: center;
+}
+.menu{
+    background-color: #f3ffe3;
+    text-align: center;
+}
+.fin{
+    background-color: #bffcc6;
+}
+.imagen{
+    text-align: center;
+}
+.desc{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.descimg{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.serie{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

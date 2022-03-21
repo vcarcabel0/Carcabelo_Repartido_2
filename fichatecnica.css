@@ -1,19 +1,19 @@
 body{
-    background-color: #fafcaf;
+    background-color: #fbe4ff;
     color:#000
 }
 .titulo{
-    background-color: #ffe4e1;
+    background-color: #fcc2ff;
+    text-align: center;
 }
 .home{
-    background-color: #ffe4e1;
+    background-color: #fcc2ff;
+    text-align: center;
 }
 .video{
     background-color:#e9b0f2;
 }
-.titulo{
-    background-color: #b0c2f2;
-}
+
 .fin{
-    background-color: #fec9a7;
+    background-color:#f6a6ff
 }
