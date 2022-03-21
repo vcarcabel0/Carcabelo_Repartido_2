@@ -6,14 +6,28 @@ body{
     background-color: #ffcbc1;
     color: #000;
     text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .menu{
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:#ffbebc
 }
 table{
     background-color: #ff968a;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .fin{
     background-color: #ffabab;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+.boton {
+    border: 1px solid #ff6961; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #ff6961; /*color botón*/
+    color: #ffffd1; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }

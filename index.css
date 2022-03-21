@@ -2,12 +2,24 @@ body{
     background-color: #fdfd96;
     color:#000
 }
+.titulo{
+    background-color: #fff5ba;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.bienvenida{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.subtitulos{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
 .menu{
     background-color: #e2e37e;
     text-align: center;
 }
 .ranking{
     background-color:#fffec2
+    
 }
 .top{
     background-color:#fffec2
@@ -17,11 +29,19 @@ body{
 }
 .descripcion{
     background-color:#ffffd1 ;
+    font-family: 'Courier New', Courier, monospace;
 }
 .fin{
     background-color: #c8ca66;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-.titulo{
-    background-color: #fff5ba;
-    text-align: center;
-}
+.boton {
+    border: 1px solid #eeee7b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #edfa77; /*color botón*/
+    color: #ffffd1; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }

@@ -5,11 +5,23 @@ body{
 .titulo{
     background-color: #ecd4ff;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .fin{
     background-color: #b28dff;
-}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
 .menu{
-    background-color:#ecd4ff;
-    text-align: center;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.boton {
+    border: 1px solid #9e74eb; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #9e74eb; /*color botón*/
+    color: #ffffd1; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
